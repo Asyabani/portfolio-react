@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 // import App from './App';
 
-import Navbar from './component/Navbar';
+import Navbar from './components/Navbar';
 import Index from './pages/index';
-import Footer from './component/Footer';
+import Footer from './components/Footer';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
